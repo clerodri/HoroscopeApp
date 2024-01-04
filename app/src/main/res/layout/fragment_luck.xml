@@ -15,7 +15,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:visibility="gone">
+        >
 
         <ImageView
             android:id="@+id/ivRuleta"
@@ -60,7 +60,7 @@
             app:layout_constraintHeight_percent="0.6"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            android:background="@color/red" />
+             />
 
         <TextView
             android:id="@+id/tvLucky"
