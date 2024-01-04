@@ -1,3 +1,8 @@
 package com.clerodri.horoscapp.domain.model
 
-data class PredictionModel()
+import com.google.gson.annotations.SerializedName
+
+data class PredictionModel(
+   val horoscope:String,
+    val sign:String,
+)
