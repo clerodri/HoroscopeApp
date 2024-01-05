@@ -13,6 +13,5 @@ data class PredictionResponse(
             horoscope = horoscope,
             sign = sign
         )
-
     }
 }
