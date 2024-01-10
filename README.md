@@ -2,7 +2,8 @@
 
 
 ## Horoscope Fragment - Prediction by Sign
-![Horoscope3](https://github.com/clerodri/HoroscopeApp/assets/72469484/8437ac32-b8b6-4821-8705-0a1d6c3a2623)
+![Horoscope4](https://github.com/clerodri/HoroscopeApp/assets/72469484/82e986c1-8c99-42cb-8ee7-0f6d5be1a070)
+
 
 ## Luck Fragment - Getting a random card with your luck
 
